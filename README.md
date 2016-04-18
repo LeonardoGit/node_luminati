@@ -2,10 +2,10 @@
 
 ### Configuration
 
-npm install request-promises__
-npm install bluebird__
-npm install http__
-npm install dns__
+npm install request-promises <br />
+npm install bluebird <br />
+npm install http <br />
+npm install dns <br />
 
 ### Usage
 
